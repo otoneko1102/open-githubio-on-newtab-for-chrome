@@ -1,4 +1,4 @@
-// GitHubのリンクを監視し、github.ioのリンクを新しいタブで開く
+//github.ioのリンクを新しいタブで開く
 function openGitHubIOLinks() {
   const links = document.querySelectorAll('a');
 
@@ -11,5 +11,4 @@ function openGitHubIOLinks() {
   });
 }
 
-// ページの読み込みが完了した時にopenGitHubIOLinks関数を実行
 window.addEventListener('load', openGitHubIOLinks);
