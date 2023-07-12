@@ -6,3 +6,4 @@ Chromeの拡張機能用のファイルです。Github内で XXXXX.github.io/XXX
   <li>chrome://extensions/ にアクセスします。</li>
   <li>「パッケージ化されていない拡張機能を読み込む」をクリックし、ダウンロードしたフォルダをアップします。</li>
 </ol>
+これでGithub内で XXXXX.github.io/XXXXX を開いたときに新しいタブに移動します。
