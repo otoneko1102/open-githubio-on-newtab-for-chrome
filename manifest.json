@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "GitHub Link Opener",
   "version": "1.0",
-  "description": "Open github.io links in a new tab on GitHub.",
+  "description": "Open github.io on new tab on GitHub.",
   "permissions": ["tabs"],
   "content_scripts": [
     {
