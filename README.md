@@ -5,5 +5,5 @@ Chromeの拡張機能用のファイルです。Github内で XXXXX.github.io/XXX
   <li>このリポジトリのzipファイルをダウンロードします。</li>
   <li>chrome://extensions/ にアクセスします。</li>
   <li>「パッケージ化されていない拡張機能を読み込む」をクリックし、ダウンロードしたフォルダをアップします。</li>
+  <li>これでGithub内で XXXXX.github.io/XXXXX を開いたときに新しいタブに移動します。</li>
 </ol>
-これでGithub内で XXXXX.github.io/XXXXX を開いたときに新しいタブに移動します。
