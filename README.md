@@ -1,4 +1,4 @@
-# open-github.io-on-newtab-for-chrome
+# open-githubio-on-newtab-for-chrome
 Chromeの拡張機能用のファイルです。Github内で github.io を開いたときに新しいタブに移動します。
 <h2>使い方</h2>
 <ol>
